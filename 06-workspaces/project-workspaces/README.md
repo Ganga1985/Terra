@@ -22,12 +22,12 @@ Manage multiple environments using Terraform workspaces.
 
 ### terraform.tfstate.d folder showing dev, stage, prod
 
-!/06-workspaces/project-workspaces/screenshots/folder created on tf.state.PNG
+![terraform workspaces](06-workspaces/project-workspaces/screenshots/folder created on tf.state.PNG)
 
 ### Workspace list on terraform
 
-!06-workspaces/project-workspaces/screenshots/workspace_list.PNG
+![terraform workspace list](06-workspaces/project-workspaces/screenshots/workspace_list.PNG)
 
 ### EC2 instances running on AWS console
 
-!/06-workspaces/project-workspaces/screenshots/3server running_aws console.PNG
+![ec2 instance](06-workspaces/project-workspaces/screenshots/3server running_aws console.PNG) 

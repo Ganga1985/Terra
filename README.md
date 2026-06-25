@@ -1,62 +1,57 @@
-# Terraform Zero to Hero – AWS Cloud Engineer Portfolio
+# 🚀 My Terraform Larning Journey – AWS Cloud Engineer Portfolio
 
-This repository documents my hands-on Terraform learning journey while preparing for Cloud Support Engineer and Junior Cloud Engineer roles.
+## 🔵 Overview
 
-## Technologies
+This repository documents my hands-on Terraform learning journey while preparing for Cloud Support Engineer and Junior Cloud Engineer roles. It demonstrates Infrastructure as Code (IaC) practices using AWS and Terraform.
 
-* Terraform
-* AWS
-* EC2
-* IAM
-* S3
-* DynamoDB
-* CloudWatch
-* HashiCorp Vault
-* Git & GitHub
 
-## Learning Roadmap & Projects
+## 🧰 Technologies Used
 
-| Section                             | Status          |
-| ----------------------------------- | --------------  |
-| 01 - Terraform Basics               | ✅ Complete    |
-| 02 - Variables, Outputs & Functions | ✅ Complete    |
-| 03 - Modules                        | ✅ Complete    |
-| 04 - Remote State Management        | ✅ Complete    |
-| 05 - Provisioners                   | ✅ Complete    |
-| 06 - Workspaces                     | ✅ Complete    |
-| 07 - Security & Vault               | ✅ Complete    |
+- Terraform  
+- AWS (EC2, IAM, S3, DynamoDB, CloudWatch)  
+- HashiCorp Vault  
+- Git & GitHub  
 
-## Current Focus
 
-### 01 - Terraform Basics
+## 📚 Learning Roadmap & Progress
 
-Topics Covered:
+| Section                             | Status       |
+|-------------------------------------|------------- |
+| 01 - Terraform Basics               | ✅ Complete |
+| 02 - Variables, Outputs & Functions | ✅ Complete |
+| 03 - Modules                        | ✅ Complete |
+| 04 - Remote State Management        | ✅ Complete |
+| 05 - Provisioners                   | ✅ Complete |
+| 06 - Workspaces                     | ✅ Complete |
+| 07 - Security & Vault               | ✅ Complete |
 
-* Terraform fundamentals
-* AWS provider configuration
-* Terraform workflow
-* State management
-* EC2 deployment
 
-Project:
+## 🎯 Project Highlights
 
-* AWS EC2 Instance Deployment with Terraform
+- Built AWS infrastructure using Terraform (Infrastructure as Code)
+- Deployed EC2 instances and managed AWS resources programmatically
+- Implemented modular Terraform architecture
+- Practiced remote state management and workspaces
+- Applied security concepts using IAM and Vault principles
+- Maintained version control using Git & GitHub
 
-## Key Skills Being Developed
+---
 
-✅ Infrastructure as Code (Terraform)
+## 🧠 Skills & Concepts Practiced
 
-✅ AWS Resource Provisioning
+- Infrastructure as Code (Terraform)
+- AWS Resource Provisioning
+- Remote State Management
+- Modular Terraform Design
+- Cloud Security Fundamentals
+- CI/CD & Version Control with Git
 
-✅ Git Version Control
 
-✅ Cloud Automation
-
-✅ Terraform State Management
-
-## Author
+##  Author
 
 Ganga Rajagopalan
+AWS Certified SysOps Administrator – Associate  
 
-AWS Certified SysOps Administrator – Associate
->>>>>>> 908dfcc (Save Terraform labs before syncing with remote)
+
+⭐ *This project represents my complete Terraform learning journey from basics to advanced cloud infrastructure automation.*
+

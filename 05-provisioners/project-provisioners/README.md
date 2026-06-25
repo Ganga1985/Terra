@@ -22,6 +22,6 @@ Use Terraform provisioners to execute commands during resource creation.
 
 ### Local exec created
 
-!05-provisioners/project-provisioners/screenshots/local-exec created.PNG
+![](05-provisioners/project-provisioners/screenshots/local-exec created.PNG)
 
 !05-provisioners/project-provisioners/screenshots/ec2running_local exec.PNG
