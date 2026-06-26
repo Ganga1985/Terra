@@ -21,3 +21,4 @@ crash.*.log
 .vscode/
 *.code-workspace
 .DS_Storeawscliv2.zip
+01-terraform-basics/project-ec2-instance/awscliv2.zip
