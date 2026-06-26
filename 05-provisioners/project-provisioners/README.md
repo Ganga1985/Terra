@@ -17,11 +17,10 @@ Use Terraform provisioners to execute commands during resource creation.
 * Infrastructure Automation
 * AWS EC2 Deployment
 
-## Screenshots
-
+## Verification
 
 ### Local exec created
 
-![](05-provisioners/project-provisioners/screenshots/local-exec created.PNG)
+![Local exec created](05-provisioners/project-provisioners/screenshots/local-exec created.PNG)
 
-!05-provisioners/project-provisioners/screenshots/ec2running_local exec.PNG
+![ec2 instance](05-provisioners/project-provisioners/screenshots/ec2running_local exec.PNG)

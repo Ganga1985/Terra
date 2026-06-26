@@ -19,16 +19,16 @@ Configure remote Terraform state using Amazon S3 and DynamoDB.
 * State Management
 * Infrastructure as Code
 
-## Screenshots
+## Verification
 
 ### S3 Remote State
 
-!/04-remote-state-management/project-remote-state/screenshots/s3-remote-state.PNG
+![S3 Remote state](04-remote-state-management/project-remote-state/screenshots/s3-remote-state.PNG)
 
 ### DynamoDB State Locking
 
-!/04-remote-state-management/project-remote-state/screenshots/dynamodb-state-locking.PNG
+![DynamoDB statelocking](04-remote-state-management/project-remote-state/screenshots/dynamodb-state-locking.PNG)
 
 ### Backend Initialization
 
-!/04-remote-state-management/project-remote-state/screenshots/terraform-backened-init.PNG
+![Backened initialization](04-remote-state-management/project-remote-state/screenshots/terraform-backened-init.PNG)

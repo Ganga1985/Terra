@@ -19,16 +19,16 @@ Learn how to securely manage secrets using HashiCorp Vault and Terraform.
 * Infrastructure as Code (IaC)
 * Security Best Practices
 
-## Screenshots
+## Verification
 
 ### Terraform apply successfully creating the Vault secret
 
-![Terraform Apply](screenshots/db_created_terraform apply.PNG)
+![Terraform Apply](07-security-vault/screenshots/db_created_terraform apply.PNG)
 
 ### Vault dashboard after login
 
-![Vault Dashboard](screenshots/vault_dashboard.PNG)
+![Vault Dashboard](07-security-vault/screenshots/vault_dashboard.PNG)
 
 ### Secret stored in Vault under secret/database
 
-![Vault Secret](screenshots/vault_secret.PNG)
+![Vault Secret](07-security-vault/screenshots/vault_secret.PNG)
