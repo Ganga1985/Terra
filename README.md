@@ -50,6 +50,7 @@ This repository documents my hands-on Terraform learning journey while preparing
 ##  Author
 
 Ganga Rajagopalan
+
 AWS Certified SysOps Administrator – Associate  
 
 
